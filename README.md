@@ -1,7 +1,7 @@
-### Date created
-Include the date you created this project and README file.
+### Programming for Data Science with Python - Udacity Course
+### Marvin Grass - June 08 2020
 
-### Project Title
+### Project 1
 Replace the Project Title
 
 ### Description
