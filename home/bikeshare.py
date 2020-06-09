@@ -41,7 +41,7 @@ def get_filters():
 
     print('-' * 40)
     return city.lower(), month.lower(), day.lower()
-print('You chose to explore',city,'in the month of',month,'and the day',day)
+print('You have chosen to explore',city,'in the month of',month,'and the day',day)
 
 def load_data(city, month, day):
     """
