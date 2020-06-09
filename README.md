@@ -1,4 +1,4 @@
-## Programming for Data Science with Python - Udacity Course
+# Programming for Data Science with Python - Udacity Course
 #### Marvin Grass - June 08 2020
 
 ## Project 1 - SQL
