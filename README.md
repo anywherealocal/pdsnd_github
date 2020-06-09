@@ -14,7 +14,7 @@ In this project, the students used Python to explore data related to bike sharin
 (b) write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ### Files created
-[bikeshare.py](https://www.google.com)
+[bikeshare.py](https://github.com/anywherealocal/programming-for-data-science/blob/master/home/bikeshare.py)
 
 ## Project 3 - Git
 ### Description
