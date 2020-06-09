@@ -6,7 +6,7 @@
 The students looked at the database movie rentals in which they had to run SQL queries to give insights about the movies and customers behaviour. Visualizations showcased the output of the students' queries.
 
 ### Files created
-Include the files used
+[My SQL cheat sheet](https://www.google.com)
 
 ## Project 2 - Python
 ### Description
@@ -14,11 +14,11 @@ In this project, the students used Python to explore data related to bike sharin
 (b) write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ### Files created
-Include the files used
+[bikeshare.py](https://www.google.com)
 
 ## Project 3 - Git
 ### Description
-Describe what your project is about and what it does
+Usage of Git
 
-### Files created
-Include the files used
+### Credit
+Thank you, Udacity teachers!
