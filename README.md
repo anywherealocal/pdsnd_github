@@ -6,7 +6,7 @@
 The students looked at the database movie rentals in which they had to run SQL queries to give insights about the movies and customers behaviour. Visualizations showcased the output of the students' queries.
 
 ### Files created
-[My SQL cheat sheet](https://www.google.com)
+[My SQL cheat sheet](https://github.com/anywherealocal/programming-for-data-science/blob/master/SQL%20%20Cheat%20Sheet.pdf)
 
 ## Project 2 - Python
 ### Description
