@@ -20,5 +20,5 @@ In this project, the students used Python to explore data related to bike sharin
 ### Description
 Usage of Git
 
-### Credit
+## Credit
 Thank you, Udacity teachers!
